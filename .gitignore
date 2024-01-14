@@ -1,0 +1,6 @@
+/airflow/dags/__pycache__/*
+/airflow/dags/scripts/__pycache__/*
+/airflow/logs/*
+/airflow/credentials/*.json
+/airflow/dags/data/*.json
+/airflow/dags/data/*.csv
